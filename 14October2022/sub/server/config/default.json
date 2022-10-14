@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://network:mayuri123@clusternodejs.07ccz.mongodb.net/retryWrites=true",
+  "key": "mytopsecret",
+  "githubClientId": "428cd94947979e4ab2a0",
+  "githubSecret": "1f92eae09862cd2b7c3fee4f6e89216d34aae7a8 "
+}
